@@ -1,1 +1,1 @@
-Architecture setup to run pytests conditionally.
+Architecture setup to run pytests conditionally. 
