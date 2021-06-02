@@ -26,7 +26,7 @@ selenium>=3.0.0
 statistics==1.0.3.5
 xmltodict==0.11.0
 zipfile2==0.0.12
-urllib3==1.21.1
+urllib3==1.26.5
 braintree==3.24.0
 jsonschema
 pyyaml
