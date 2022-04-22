@@ -15,7 +15,7 @@ plumbum==1.6.7
 protobuf==3.0.0a3
 py-dateutil==2.2
 PyDispatcher==2.0.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 Pyro4==4.60
 pyserial==2.7
 pytest==4.2.1
